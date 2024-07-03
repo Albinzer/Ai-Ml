@@ -1,6 +1,6 @@
 # Ai-Ml
 
-1.  learn Python (vode with harry) + 
+1.  learn Python (vode with harry) + Apna College 
 2.  learn Numpy
 3.  learn flask
 4.  learn pandas
